@@ -1,5 +1,5 @@
 {
-  "name": "react-typescipt-starter",
+  "name": "db-form",
   "version": "1.0.0",
   "scripts": {
     "build": "webpack",
